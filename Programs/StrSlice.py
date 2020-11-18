@@ -24,4 +24,4 @@
 ############ strip() method- gets rid of surrounding spaces in a string
 word = "            hello        "
 print(word.strip())
-
+print(" hi".strip())
