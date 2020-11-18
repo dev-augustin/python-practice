@@ -22,6 +22,14 @@
 #     print("Answer is yes")
 
 ############ strip() method- gets rid of surrounding spaces in a string
-word = "            hello        "
-print(word.strip())
-print(" hi".strip())
+# word = "            hello        "
+# print(word.strip())
+# print(" hi".strip())
+# print("      hello  ".lstrip())
+# print("      hello  ".rstrip())
+
+####### count()
+print("helloooooooooo".count('o'))
+
+######endswith()
+print("This is python practice".endswith('practice'))
