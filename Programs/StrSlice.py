@@ -13,5 +13,15 @@
 # print("Cats" in pets)
 
 ############### upper & lowers
-print("flowers".upper())
-print("flowers".lower())
+# print("flowers".upper())
+# print("flowers".lower())
+
+#####
+# answer = "YES"
+# if (answer.lower()== 'yes'):
+#     print("Answer is yes")
+
+############ strip() method- gets rid of surrounding spaces in a string
+word = "            hello        "
+print(word.strip())
+
