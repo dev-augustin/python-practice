@@ -29,7 +29,19 @@
 # print("      hello  ".rstrip())
 
 ####### count()
-print("helloooooooooo".count('o'))
+# print("helloooooooooo".count('o'))
 
 ######endswith()
-print("This is python practice".endswith('practice'))
+# print("This is python practice".endswith('practice'))
+
+###########isnumerice()
+# print("aacaca".isnumeric())
+# print("12345".isnumeric())
+
+#######int
+# print(int("12") + int("10"))
+############join
+# print(" ".join(["This","is","a","sentence"]))
+# print("...".join(["this", "joined", "with", "..", "sentence"]))
+######split
+print("This sentence can be split".split())
